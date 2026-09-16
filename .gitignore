@@ -1,3 +1,16 @@
 
+.DS_Store
+*.icloud
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
 Prototyping/tdata.csv
 Prototyping/tdata2.csv
