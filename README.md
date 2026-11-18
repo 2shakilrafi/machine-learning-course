@@ -22,9 +22,9 @@ python -m pip install jupyter
 jupyter lab
 ```
 
-Some datasets and model artifacts are intentionally retained as part of the course record. Confirm each dataset's source and reuse terms before redistribution.
+Some datasets and model artifacts are kept as part of the course record. Confirm each dataset's source and reuse terms before redistribution.
 
-Small `.icloud` metadata stubs are also retained because the corresponding source artifacts were already absent when this cleanup began. They preserve evidence of unresolved files; they are not the original documents or datasets.
+A few small `.icloud` placeholder files are still in the repository. They are iCloud stubs for files that were never downloaded locally, not the original documents or datasets, and the real files are missing.
 
 ## Academic use
 
